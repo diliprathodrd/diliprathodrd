@@ -4,7 +4,7 @@
 Hello! 👋 I'm Dilip Rathod, a passionate software engineer with over 2 years of hands-on experience in building web applications using React and Angular. I am constantly excited about the ever-evolving world of web development and love to create innovative web solutions. This is my GitHub profile, where you can explore some of the projects I've been working on. 🖥️
 
 ## About Me 🧑‍💻
-- 💼 Currently working as a software engineer at Neustar Inc., A TransUnion Company, where I work as a front end developer.
+- 💼 Currently working as a Associate Software Engineer at TransUnion, where I work as a front end developer.
 - 🎓 Graduated with a degree in Computer Science and Engineering from Shivaji University, Kolhapur.
 - 🌐 I'm a firm believer in lifelong learning and staying up-to-date with the latest web development trends and technologies. 📚
 
