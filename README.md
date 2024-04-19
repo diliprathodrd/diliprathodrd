@@ -73,8 +73,21 @@ Feel free to explore some of the projects I've worked on. I'm always excited to 
 - [LinkedIn Profile](https://www.linkedin.com/in/dilip-rathod)
 - [Personal Website/Blog](https://www.diliprathod.in/)
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=diliprathodrd&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=diliprathodrd&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=diliprathodrd&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
 ## Let's Collaborate 🤩
 
 I'm always open to new opportunities, collaborations, and interesting projects. If you'd like to work together or just want to chat about web development, feel free to reach out. Let's create something awesome together! 🚀
 
-Thank you for visiting my GitHub profile. Happy coding! 😊🚀
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&Center=true&&width=500&height=70&duration=4000&lines=Thank+You+for+profile+visit!;+Happy+Coding!+😊🚀;"/>
+    </a>
+</h1>
