@@ -10,7 +10,7 @@
 
 ## Introduction 🌟
 
-Hello! 👋 I'm Dilip Rathod, a passionate software engineer with over 2 years of hands-on experience in building web applications using React and Angular. I am constantly excited about the ever-evolving world of web development and love to create innovative web solutions. This is my GitHub profile, where you can explore some of the projects I've been working on. 🖥️
+Hello! 👋 I'm Dilip Rathod, a passionate software engineer with over 3 years of hands-on experience in building web applications using React and Angular. I am constantly excited about the ever-evolving world of web development and love to create innovative web solutions. This is my GitHub profile, where you can explore some of the projects I've been working on. 🖥️
 
 ## About Me 🧑‍💻
 
