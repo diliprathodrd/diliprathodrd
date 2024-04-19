@@ -1,4 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=diliprathodrd.diliprathodrd"/>
+[![Visits Badge](https://badges.strrl.dev/visits/diliprathodrd/diliprathodrd)](https://badges.strrl.dev)
+
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&Center=true&&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dilip+Rathod!+🙋;"/>
+    </a>
+</h1>
 
 # Software Engineer | Web Development Enthusiast 🚀
 
